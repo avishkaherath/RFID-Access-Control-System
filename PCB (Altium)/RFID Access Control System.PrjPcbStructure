@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=IO and MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=IO and MCU.SchDoc|FileName=Main.SchDoc|SheetNumber=2
