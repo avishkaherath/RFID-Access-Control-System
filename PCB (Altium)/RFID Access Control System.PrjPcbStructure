@@ -1,2 +1,3 @@
-Record=TopLevelDocument|FileName=IO and MCU.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=IO and MCU.SchDoc|FileName=Main.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=External connections.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=External connections.SchDoc|FileName=IO and MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=External connections.SchDoc|FileName=Power Supply and Regulation.SchDoc|SheetNumber=1
